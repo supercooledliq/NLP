@@ -1,4 +1,4 @@
-## This script demonstrates how to tokenize text into words using NLTK (Natural Language Toolkit).
+#how to tokenize text into words using NLTK
 
 import nltk
 from nltk.tokenize import word_tokenize
